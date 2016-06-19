@@ -36,3 +36,5 @@
         app:isFillMode="true"</br>
         app:verticalAxisColor="#F88D3D"  /></br>
  
+</br>欢迎大家访问我的博客提供宝贵建议</br>
+<a href='http://blog.csdn.net/lcq376645763'>http://blog.csdn.net/lcq376645763</a></br>
