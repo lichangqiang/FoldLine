@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="foldline">
+        <attr name="foldLineColor" format="color" />
+        <attr name="verticalAxisColor" format="color" />
+        <attr name="crossAxisColor" format="color" />
+        <attr name="axisWidth" format="dimension" />
+        <attr name="axisScaleWidth" format="dimension" />
+        <attr name="isFillMode" format="boolean" />
+        <attr name="isDrawFoldLineCircle" format="boolean" />
+        <attr name="foldLineCircleRadius" format="dimension" />
+        <attr name="foldLineCircleColor" format="color" />
+        <attr name="crossAxisScaleTextColor" format="color" />
+        <attr name="crossAxisScaleTextSize" format="dimension" />
+        <attr name="foldLineOuterColor" format="color" />
+    </declare-styleable>
+
+</resources>
