@@ -1,5 +1,8 @@
 # FoldLine
 折线图，支持横向滚动，支持刻度自定义
+</br>
+</br>
+<img src='https://github.com/lichangqiang/FoldLine/blob/master/demo.gif' height="350" width="250"/>
 <h3>一、实现原理</h3>
 本控件有三个实体类：</br>
 1、CrossAxisScale 用于自定义横向刻度</br>
